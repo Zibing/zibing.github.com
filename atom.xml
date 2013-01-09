@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Zibing.github.com/atom.xml" rel="self"/>
   <link href="http://Zibing.github.com/"/>
-  <updated>2013-01-09T01:18:33-06:00</updated>
+  <updated>2013-01-09T01:27:03-06:00</updated>
   <id>http://Zibing.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,23 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://Zibing.github.com/blog/2013/01/09/test/"/>
-    <updated>2013-01-09T01:18:00-06:00</updated>
-    <id>http://Zibing.github.com/blog/2013/01/09/test</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[This is a test.]]></title>
-    <link href="http://Zibing.github.com/blog/2013/01/09/this-is-a-test/"/>
-    <updated>2013-01-09T00:45:00-06:00</updated>
-    <id>http://Zibing.github.com/blog/2013/01/09/this-is-a-test</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
