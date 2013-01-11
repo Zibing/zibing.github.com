@@ -4,7 +4,7 @@
   <title><![CDATA[H.L.H]]></title>
   <link href="http://Zibing.github.com/atom.xml" rel="self"/>
   <link href="http://Zibing.github.com/"/>
-  <updated>2013-01-11T13:50:34-06:00</updated>
+  <updated>2013-01-11T15:57:29-06:00</updated>
   <id>http://Zibing.github.com/</id>
   <author>
     <name><![CDATA[Lihua He]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Useful Tools to Build a Website]]></title>
+    <link href="http://Zibing.github.com/blog/2013/01/11/useful-tools-to-build-a-website/"/>
+    <updated>2013-01-11T15:51:00-06:00</updated>
+    <id>http://Zibing.github.com/blog/2013/01/11/useful-tools-to-build-a-website</id>
+    <content type="html"><![CDATA[<h2>ShareBar</h2>
+
+<p><a href="https://www.addthis.com/get/sharing#.UPCKF_JJ5wc">AddThis</a> provides cool horizontal/vertical share bars. Customization is easy.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JavaScript Closure]]></title>
